@@ -1,0 +1,2 @@
+* 8-23 * * MON-FRI sh /Users/yumatsuzawa/scripts/kintai.sh &> /tmp/kintai.log
+
