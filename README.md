@@ -10,4 +10,6 @@ Pop TeamSpirit time stamper every morning (or afternoon)
 
 Copy below and paste in the Terminal, then push return key gently.
 
-`curl -sL https://raw.githubusercontent.com/YuMatsuzawa/kintai/master/install.sh | sh`
+```shellscript
+curl -sL https://raw.githubusercontent.com/YuMatsuzawa/kintai/master/install.sh | sh
+```
